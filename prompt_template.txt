@@ -1,0 +1,19 @@
+Instruction: You are an AI assistant. You will be given a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.
+
+Argument:
+
+Topic:
+
+Stance:
+
+Question: How would you rate the overall quality of the given argument? First, choose one of the options below and then explain your reasoning:
+
+Options:
+0: cannot judge
+1: very poor quality
+2: poor quality
+3: average quality
+4: good quality
+5: very good quality
+
+Answer:
